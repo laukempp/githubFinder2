@@ -1,4 +1,4 @@
-React learning tutorial project
+React learning tutorial project (with context)
 
 ## Available Scripts
 
